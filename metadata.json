@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ProfileShield AI",
+  "description": "Counterfeit profile, bot, and scam detection platform powered by machine learning and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
